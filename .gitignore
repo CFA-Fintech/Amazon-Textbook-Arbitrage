@@ -1,0 +1,5 @@
+proxyAddress.txt
+*.pyc
+sendText.py
+sendEmail.py
+info.csv
